@@ -1,0 +1,17 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.decoration {
+    font-size: 20px;
+}
+
+/*フォントカラーの指定*/
+.skyblue {
+    color: skyblue;
+}
+
+.pink {
+    color: rgb(255,192,203)
+}
+/* h1の装飾 */
